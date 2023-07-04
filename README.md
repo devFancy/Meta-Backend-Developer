@@ -22,9 +22,9 @@
     * Week 3:
     * Week 4:
 - Course 4: [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer)
-    * Week 1: [Introduction to Databases]()
-    * Week 2: [Create, Read, Update and Delete (CRUD) Operations]()
-    * Week 3: [SQL Operators and sorting and filtering data]()
+    * Week 1: [Introduction to Databases](https://github.com/devFancy/Meta-Backend-Developer/tree/main/Course%204-Introduction%20to%20Databases%20for%20Back-End%20Development/Week%201)
+    * Week 2: [Create, Read, Update and Delete (CRUD) Operations](https://github.com/devFancy/Meta-Backend-Developer/tree/main/Course%204-Introduction%20to%20Databases%20for%20Back-End%20Development/Week%202)
+    * Week 3: [SQL Operators and sorting and filtering data](https://github.com/devFancy/Meta-Backend-Developer/tree/main/Course%204-Introduction%20to%20Databases%20for%20Back-End%20Development/Week%203)
     * Week 4: [Database design]()
     * Week 5: [Graded assessment]()
 - Course 5: [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
