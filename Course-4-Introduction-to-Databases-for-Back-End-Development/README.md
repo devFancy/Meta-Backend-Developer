@@ -1,6 +1,6 @@
 # Introduction to Databases for Back-End Development
 
-<img src="./images/meta-logo.png" alt="meta-logo" width=300>
+<img src="../images/meta-logo.png" alt="meta-logo" width=300>
 
 ## Table of Content
 
